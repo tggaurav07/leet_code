@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tggaurav07/leet_code/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tggaurav07/leet_code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tggaurav07/leet_code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
