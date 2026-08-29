@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tggaurav07/leet_code/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tggaurav07/leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tggaurav07/leet_code/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
