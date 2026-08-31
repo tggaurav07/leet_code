@@ -34,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tggaurav07/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tggaurav07/leet_code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/tggaurav07/leet_code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tggaurav07/leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
