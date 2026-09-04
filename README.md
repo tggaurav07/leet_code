@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/tggaurav07/leet_code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tggaurav07/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tggaurav07/leet_code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tggaurav07/leet_code/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tggaurav07/leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tggaurav07/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -77,4 +80,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tggaurav07/leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
