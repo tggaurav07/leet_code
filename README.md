@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tggaurav07/leet_code/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/tggaurav07/leet_code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tggaurav07/leet_code/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tggaurav07/leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tggaurav07/leet_code/tree/master/0283-move-zeroes) |
@@ -63,4 +65,16 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tggaurav07/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tggaurav07/leet_code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
